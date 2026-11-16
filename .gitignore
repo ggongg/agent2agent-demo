@@ -1,0 +1,8 @@
+.env
+.env.*
+.venv/
+__pycache__/
+/ai_docs/
+.DS_Store
+*.log
+!.env.example
